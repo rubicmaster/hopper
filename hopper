@@ -1,7 +1,4 @@
-_G.Key = "freehopper"
-_G.sound = "http://www.roblox.com/asset/?id=7975597206" --the sound u want to play when it find a fruit
-_G.load = "21" --how much time it takes to load
-_G.webhook = "https://discord.com/api/webhooks/917059964659458079/2g2KaeREmUDKC5xArSzMUsPxwl2QKf9g1a_3WaTk2Nm3NajMxM9FZAWwLs1pgQ3CadaX" --ur webhook
+
 _ACjrHrjhhWOT0AW4, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
